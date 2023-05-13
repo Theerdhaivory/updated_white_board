@@ -1,0 +1,48 @@
+.body_background {
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/884/543/desktop-wallpaper-aura-gradient-777-lucky-aura-aesthetic.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+       
+      font-size: 40px;
+      font-family: 'Playfair Display', serif;
+
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color:#FF7777 ;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+    font-family: 'Playfair Display', serif;
+  }
+
+  input
+  {
+    margin-right: 20px;
+    background-color: #FF7777;
+    color: bisque;
+    font-family: 'Playfair Display', serif;
+  }
+  body{
+    text-align: center;
+  }
+  h3{
+    color: bisque;
+    font-family: 'Playfair Display', serif;
+  }
+  p{
+    font-family: 'Playfair Display', serif;
+  }
